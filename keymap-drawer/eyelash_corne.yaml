@@ -239,7 +239,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - LANG ZENKAKUHANKAKU
   - INT MUHENKAN
   - {t: AltGr+`, s: AltGr+~}
   - {type: held}
