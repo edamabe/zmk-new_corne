@@ -102,10 +102,10 @@
 
         layer_4 {
             bindings = <
-&trans  &trans          &kp PAGE_UP     &kp UP_ARROW    &kp PAGE_DOWN   &trans                            &trans          &trans     &trans             &trans           &trans  &trans  &trans
-&trans  &kp HOME        &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT       &kp END                   &trans  &trans  &trans  &trans     &trans             &trans           &trans  &trans  &trans
-&trans  &kp LANGUAGE_3  &kp LANGUAGE_4  &kp LANGUAGE_5  &kp LANGUAGE_2  &kp LANGUAGE_7  &trans            &trans          &kp GRAVE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans  &trans  &trans
-                                        &kp LANGUAGE_6  &kp LANGUAGE_9  &kp RA(GRAVE)                                     &trans     &kp LANGUAGE_1     &kp LANGUAGE_8
+&trans  &trans    &kp PAGE_UP     &kp UP_ARROW    &kp PAGE_DOWN     &trans                           &trans          &trans  &trans             &trans           &trans  &trans  &trans
+&trans  &kp HOME  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT         &kp END                  &trans  &trans  &trans  &trans  &trans             &trans           &trans  &trans  &trans
+&trans  &trans    &trans          &trans          &trans            &trans         &trans            &trans          &trans  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans  &trans  &trans
+                                  &trans          &kp INT_MUHENKAN  &kp RA(GRAVE)                                    &trans  &trans             &trans
             >;
         };
 
