@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: eyelash_corne}
 layers:
   QWERTY:
-  - '&td0'
+  - A
   - {t: Q, h: '$$mdi:apple-keyboard-option$$'}
   - W
   - E
